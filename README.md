@@ -1,6 +1,7 @@
-# Date :
+# Date : 28.01.2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
-
+## Name : Saranya V
+## Register Number : 212223040188
 
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
@@ -55,6 +56,10 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+<img width="1585" height="755" alt="image" src="https://github.com/user-attachments/assets/d1e4e918-b192-40dd-8cfb-33a81555c55f" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/733b7b6a-e7ab-4895-8003-aa3e1ea70ba5" />
+
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
